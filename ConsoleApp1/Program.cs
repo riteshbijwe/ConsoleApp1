@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine();
-Console.WriteLine("This is a C# 12.0 project targeting .NET 8");
+Console.WriteLine("This is a C# 12.0 project targeting .NET 8")  ;
